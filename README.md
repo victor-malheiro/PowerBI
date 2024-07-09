@@ -43,7 +43,7 @@ With this dashboard i want to answer several question to help understand the bus
 
 ## PowerBI Dashboard
 
-<div align="justify">The PowerBI Dashboard provides visualizations and oportunities to analyze different metrics that were defined on the [Objectives](#objectives) section. The dashboard presents several information, using visualization and DAX programming, divided into four different pages that can be accessed by the navigation buttons and with a time slicer to analyze all the resullts over time.</div></br>
+<div align="justify">The PowerBI Dashboard provides visualizations and oportunities to analyze different metrics that were defined on the Objectives section. The dashboard presents several information, using visualization and DAX programming, divided into four different pages that can be accessed by the navigation buttons and with a time slicer to analyze all the resullts over time.</div></br>
 
 <div align="justify">On the first page i created two charts representing on the first one the sales over time by category and on the second, the trend of the sales by market, using a tooltip to present the top 5 countries in each market as an additional representation, to understand who contributed the most for the results presented.</div></br>
 
