@@ -123,7 +123,7 @@ Action =
 
 ## Recommendations
 
-<div align="justify">To access the dashboard, open the StoreGlobalOrders.pbix file in Power BI Desktop, interact with the visualizations on the different pages, that can be navigated using the navigation buttons on the top of each page, apply filters and slicers, to analyze the all the data over time.</div></br>
+<div align="justify">To access the dashboard, open the StoreGlobalOrders.pbix file in Power BI Desktop, interact with the visualizations on the different pages, that can be navigated using the navigation buttons on the top of each page, apply filters and slicers, to analyze all the data over a certain period time.</div></br>
 
 <div align="justify">The dashboard is usefull to gather knowledge about the sales information and about the products sold, the costumers that bought them and the respective markets, to help the management take more informed decisions.</div></br>
 
